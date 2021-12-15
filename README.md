@@ -9,10 +9,10 @@
 
 ## 基本用法
 
-python3 aiqicha.py 快抖互动
+python3 aiqicha.py 阿里云
 
 ===
-{'telephone': '13710672758', 'email': '-', 'website': 'www.91liebian.com', 'legalPerson': '曹玉荣'}
+{'telephone': 'xxx', 'email': '-', 'website': 'xxx', 'legalPerson': 'xxx'}
 
 
 
